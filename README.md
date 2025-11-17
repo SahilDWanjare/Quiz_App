@@ -6,9 +6,9 @@ clean UI, smooth navigation, and scalable architecture.
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="Assets/screen_1.png" width="260" />
-  <img src="Assets/screen_2.png" width="260" />
-  <img src="Assets/screen_3.png" width="260" />
+  <img width="280" height="700" alt="Screenshot 2025-11-17 120228" src="https://github.com/user-attachments/assets/e820dee2-916b-4ef4-934e-d21a34d4f725" />
+<img width="280" height="700" alt="Screenshot 2025-11-17 122231" src="https://github.com/user-attachments/assets/3387de21-913b-4d0d-8bf4-ce30c1f0a6d3" />
+<img width="280" height="700" alt="Screenshot 2025-11-17 122257" src="https://github.com/user-attachments/assets/516c643b-fdd0-441f-a694-e5ff4a7717d1" />
 </p>
 
 ## 🚀 Features
