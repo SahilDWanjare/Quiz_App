@@ -3,15 +3,13 @@
 A fully featured quiz application built using **Flutter**, designed with
 clean UI, smooth navigation, and scalable architecture.
 
-## 🎥 Project Demo
+## 📸 App Screenshots
 
-
-``` html
-<video width="700" controls>
-  <source src="assets/quiz_app_recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
+<p align="center">
+  <img src="Assets/screen_1.png" width="260" />
+  <img src="Assets/screen_2.png" width="260" />
+  <img src="Assets/screen_3.png" width="260" />
+</p>
 
 ## 🚀 Features
 
