@@ -1,16 +1,55 @@
-# quiz_app
+# Quiz App (Flutter)
 
-A new Flutter project.
+A fully featured quiz application built using **Flutter**, designed with
+clean UI, smooth navigation, and scalable architecture.
 
-## Getting Started
+## 🎥 Project Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+``` html
+<video width="700" controls>
+  <source src="assets/quiz_app_recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-   Beautiful and responsive Flutter UI\
+-   Supports multiple-choice quizzes\
+-   Real‑time score calculation\
+-   Smooth navigation using Flutter routes\
+-   Clean and maintainable code structure
+
+## 📁 Project Structure
+
+    lib/
+     ├── main.dart
+     ├── screens/
+     ├── widgets/
+     ├── models/
+     └── utils/
+
+## 🛠️ Technologies Used
+
+-   **Flutter**\
+-   **Dart**\
+-   **Provider / Bloc (optional based on your implementation)**
+
+## ▶️ Getting Started
+
+Clone the repository and run:
+
+``` bash
+flutter pub get
+flutter run
+```
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue
+first.
+
+## 📜 License
+
+This project is licensed under the MIT License.
